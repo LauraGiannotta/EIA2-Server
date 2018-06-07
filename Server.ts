@@ -1,7 +1,7 @@
 import * as Http from "http";
 import * as Url from "url";
 
-// IMPORT HAT BEI MIR NICHT FUNKTIONIERT
+
 namespace Server {
 
     interface AssocStringString {
